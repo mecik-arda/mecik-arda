@@ -9,6 +9,7 @@ I am a dedicated software developer currently pursuing my degree at Trakya Unive
 - 🛠️ **Deep Dive:** I have a strong interest in low-level programming, particularly exploring how software interacts with hardware.
 - 📚 **Lifelong Learner:** Coding since high school has given me a solid foundation, but I'm always looking to master new frameworks and languages.
 - 🕹️ **Interests:** When I'm not coding, I enjoy parkour-themed games like Dying Light and the Assassin's Creed series.
+- ⚽ **Football Manager:** I'm a massive FM fan. It’s the only game I can play for hours on end without ever getting bored; I love the tactical depth and long-term strategy.
 
 ---
 

@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Arda Meçik! 👋
 
-<!--
-**mecik-arda/mecik-arda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Engineering Student @ Trakya University
+I am a dedicated software developer currently pursuing my degree at Trakya University. My journey into the world of programming began in the **9th grade**, and since then, I have been constantly building, debugging, and refining my skills across various layers of the stack.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🛠️ **Deep Dive:** I have a strong interest in low-level programming, particularly exploring how software interacts with hardware.
+- 📚 **Lifelong Learner:** Coding since high school has given me a solid foundation, but I'm always looking to master new frameworks and languages.
+- 🕹️ **Interests:** When I'm not coding, I enjoy parkour-themed games like Dying Light and the Assassin's Creed series.
+
+---
+
+### 🛠️ Technical Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Low-Level** | C, Assembly (8086) |
+| **Backend & Scripting** | Python, C# |
+| **Frontend** | JavaScript, HTML5, CSS3, jQuery |
+| **Tools & OS** | Git, Linux, DOSBox |
+
+---
+
+### 📈 Featured Projects
+- **[Telecom Customer Database](https://github.com/mecik-arda/Telecom-Customer-Database-C)**: A comprehensive C-based system for managing telecommunications data.
+- **[OMDb Movie Tracker](https://github.com/mecik-arda/OMDb-Movie-Tracker-GUI)**: A Python GUI application integrating external APIs for data management.
+- **[8086 Assembly Assignments](https://github.com/mecik-arda/8086-Assembly-University-Assignments)**: University-level challenges focused on hardware interrupts.
+
+---
+
+### 📫 Connect with me:
+- **LinkedIn:** [Arda Meçik](https://www.linkedin.com/in/arda-me%C3%A7ik-8a8538385/)
+- **Email:** [mecikarda@gmail.com](mailto:mecikarda@gmail.com)

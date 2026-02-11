@@ -27,6 +27,7 @@ I am a dedicated software developer currently pursuing my degree at Trakya Unive
 - **[Telecom Customer Database](https://github.com/mecik-arda/Telecom-Customer-Database-C)**: A comprehensive C-based system for managing telecommunications data.
 - **[OMDb Movie Tracker](https://github.com/mecik-arda/OMDb-Movie-Tracker-GUI)**: A Python GUI application integrating external APIs for data management.
 - **[8086 Assembly Assignments](https://github.com/mecik-arda/8086-Assembly-University-Assignments)**: University-level challenges focused on hardware interrupts.
+- **[HolyC-Technical-Analysis](https://github.com/mecik-arda/HolyC-Technical-Analysis)**: The Digital Cathedral: The Tragic Genius of Terry Davis and the Magic of HolyC
 
 ---
 

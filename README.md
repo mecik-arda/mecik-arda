@@ -62,7 +62,7 @@ A low-level utility designed to translate binary files back into human-readable 
 ### CONNECT WITH ME:
 - **LinkedIn:** [Arda Meçik](https://www.linkedin.com/in/arda-mecik/)
 - **Email:** [mecikarda@gmail.com](mailto:mecikarda@gmail.com)
-- **Portfolio:** [Europass Profile](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/arda-me%C3%A7ik/c4304e18-c3a6-4779-a3f0-587f525e8dbe?view=html)
+- **Portfolio:** [Europass Profile](https://github.com/mecik-arda/mecik-arda/blob/main/arda_mecik_europass_cv.pdf)
 
 ---
 

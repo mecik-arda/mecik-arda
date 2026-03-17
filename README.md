@@ -65,4 +65,14 @@ A low-level utility designed to translate binary files back into human-readable 
 - **Portfolio:** [Europass Profile](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/arda-me%C3%A7ik/c4304e18-c3a6-4779-a3f0-587f525e8dbe?view=html)
 
 ---
+
+### DOWNLOAD RESUME
+
+| Language | Document |
+| :--- | :--- |
+| **English** | [Download Resume (EN PDF)](https://github.com/mecik-arda/mecik-arda/blob/main/arda_mecik_cv-%5BEN%5D.pdf) |
+| **Türkçe** | [Özgeçmişi İndir (TR PDF)](https://github.com/mecik-arda/mecik-arda/blob/main/arda_mecik_cv-T%C3%BCrk%C3%A7e.pdf) |
+
+---
+
 *Securing hardware, optimizing systems, and engineering the future—one commit at a time.*

@@ -1,46 +1,68 @@
-# Hi there, I'm Arda Meçik! 👋
+# HI THERE, I'M ARDA MEÇİK
 
-### Computer Engineering Student @ Trakya University
-I am a dedicated 20-year-old software developer currently in my 2nd year at Trakya University. My journey into the world of programming began in the **9th grade**, and since then, I have been constantly building, debugging, and refining my skills across various layers of the stack.
-
----
-
-### About Me
-- **Deep Dive:** I have a strong interest in low-level programming, exploring how software interacts with hardware through C, Assembly, and VHDL.
-- **Problem Solver:** I enjoy tackling complex logic; I've even built a custom C-based disassembler to understand system internals.
-- **Hustler at Heart:** I take full ownership of my learning process, whether it's analyzing unconventional operating systems like TempleOS or automating workflows.
-- **Interests:** When I'm not coding, I'm likely scaling buildings in *Dying Light* or *Assassin's Creed*. I'm also a massive *Football Manager* fan—it's the only game I can play for hours without getting bored.
+### Computer Engineering Student @ Trakya University | Embedded Systems & System Security
+I am a 20-year-old software engineer candidate specialized in embedded systems, system internals, and network security. Currently in my 2nd year at Trakya University, I focus on building secure bridges between hardware-level execution and high-level automation.
 
 ---
 
-### Technical Stack
+### CORE FOCUS & RESEARCH
+- **Embedded Systems Security:** Researching vulnerabilities in firmware and hardware-level communication protocols.
+- **System Hardening & Integrity:** Developing frameworks for Linux security auditing and automated system-level hardening.
+- **Low-Level Engineering:** Deep diving into C, 8086 Assembly, and VHDL to optimize and secure hardware-software interactions.
+- **Network Security & Automation:** Leveraging Python for network traffic analysis and automating complex security workflows.
+
+---
+
+### TECHNICAL STACK
 
 | Category | Technologies |
 | :--- | :--- |
-| **Low-Level** | C (Advanced), Assembly (8086), VHDL |
-| **Backend & Automation** | Python, C#, Node.js |
-| **Frontend** | JavaScript, HTML5, CSS3, jQuery, React |
-| **Tools & OS** | Git/GitHub, Linux (Ubuntu), Vivado, VS Code |
+| **Low-Level & Embedded** | C (Advanced), Assembly (8086), VHDL, Firmware Analysis |
+| **Cybersecurity** | System Hardening, Network Sniffing, ADB Automation, eJPT (In Progress) |
+| **Languages** | Python, C#, Java, JavaScript, Shell Scripting |
+| **Tools & Platforms** | Linux (Kali/Ubuntu), Git/GitHub, Docker, Vivado, TerosHDL, VS Code |
+| **Frameworks** | CustomTkinter (GUI), Node.js, React |
 
 ---
 
-### 🎓 Certifications & Achievements
+### FEATURED PROJECTS
+
+#### [Adb-Xiaomi-Toolkit (Mi-Optimizer)](https://github.com/mecik-arda/Adb-Xiaomi-Toolkit)
+An enterprise-grade system utility for Xiaomi devices. Features an Adaptive UI Engine, intelligent debloating logic with risk classification, and real-time hardware telemetry via multi-threaded ADB handshaking.
+
+#### [Yggdrasil Security Framework](https://github.com/mecik-arda/Yggdrasil-Security-Framework)
+A specialized framework for Linux system auditing and automated security hardening. Focuses on system-level vulnerability mitigation and secure service management.
+
+#### [Network Sniffer & Scanner](https://github.com/mecik-arda/Network-Sniffer-Scanner-Java)
+A Java-based tool developed for capturing and analyzing network packets. Implements active device scanning and TCP/IP layer inspection for network diagnostics.
+
+#### [Bifrost Gateway](https://github.com/mecik-arda/bifrost-gateway)
+A project focused on network traffic management and secure gateway protocols for cross-system integration and routing security.
+
+#### [Simple C Disassembler](https://github.com/mecik-arda/simple-disassembler)
+A low-level utility designed to translate binary files back into human-readable machine code, facilitating basic firmware and binary analysis.
+
+---
+
+### CERTIFICATIONS & ACHIEVEMENTS
+- **eJPT (Junior Penetration Tester):** Actively pursuing to validate offensive security and network auditing skills.
 - **HackerRank Problem Solving (Basic):** Verified proficiency in algorithms and data structures.
-- **HackerRank Python (Basic):** Certified Python programming skills.
-- **eJPT (In Progress):** Actively pursuing Junior Penetration Testing certification to deepen cybersecurity knowledge.
-- **B2 English Certificate:** Certified professional communication and technical documentation skills.
+- **BTK Akademi:** Certified in C Programming, Algorithms, and Data Structures.
+- **B2 English:** Certified professional communication and technical documentation.
 
 ---
 
-### Featured Projects
-- **[Simple C Disassembler](https://github.com/mecik-arda/simple-disassembler)**: A tool to translate binary files into human-readable machine code.
-- **[HolyC-Technical-Analysis](https://github.com/mecik-arda/HolyC-Technical-Analysis)**: An in-depth analysis of Terry Davis's TempleOS and the HolyC language.
-- **[8086 Assembly Assignments](https://github.com/mecik-arda/8086-Assembly-University-Assignments)**: Focused on register optimization and hardware-level performance.
-- **[OMDb Movie Tracker](https://github.com/mecik-arda/OMDb-Movie-Tracker-GUI)**: A Python GUI application for data management via external APIs.
+### BEYOND THE CODE
+- **Parkour & Strategy:** Interested in the mechanics and level designs of Dying Light and Assassin's Creed.
+- **Tactical Management:** Football Manager enthusiast, focusing on data-driven strategy and squad optimization.
+- **System Research:** From analyzing TempleOS internals to testing embedded security tools, I am dedicated to understanding system architectures.
 
 ---
 
-### 📫 Connect with me:
-- **LinkedIn:** [Arda Meçik](https://www.linkedin.com/in/arda-me%C3%A7ik-8a8538385/)
+### CONNECT WITH ME:
+- **LinkedIn:** [Arda Meçik](https://www.linkedin.com/in/arda-mecik/)
 - **Email:** [mecikarda@gmail.com](mailto:mecikarda@gmail.com)
 - **Portfolio:** [Europass Profile](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/arda-me%C3%A7ik/c4304e18-c3a6-4779-a3f0-587f525e8dbe?view=html)
+
+---
+*Securing hardware, optimizing systems, and engineering the future—one commit at a time.*

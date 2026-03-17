@@ -17,11 +17,11 @@ I am a 20-year-old software engineer candidate specialized in embedded systems, 
 
 | Category | Technologies |
 | :--- | :--- |
-| **Low-Level & Embedded** | C (Advanced), Assembly (8086), VHDL, Firmware Analysis |
+| **Languages** | C/C++ (Advanced), Python, C#, Java, Assembly (8086), VHDL, Shell Scripting |
+| **Frontend & UI** | HTML5, CSS3, JavaScript, React, CustomTkinter (GUI) |
 | **Cybersecurity** | System Hardening, Network Sniffing, ADB Automation, eJPT (In Progress) |
-| **Languages** | Python, C#, Java, JavaScript, Shell Scripting |
 | **Tools & Platforms** | Linux (Kali/Ubuntu), Git/GitHub, Docker, Vivado, TerosHDL, VS Code |
-| **Frameworks** | CustomTkinter (GUI), Node.js, React |
+| **Backend & Others** | Node.js, Firmware Analysis, Data Structures & Algorithms |
 
 ---
 

@@ -66,12 +66,12 @@ A low-level utility designed to translate binary files back into human-readable 
 
 ---
 
-### DOWNLOAD RESUME
+### RESUME / ÖZGEÇMİŞ
 
 | Language | Document |
 | :--- | :--- |
-| **English** | [Download Resume (EN PDF)](https://github.com/mecik-arda/mecik-arda/blob/main/arda_mecik_cv-%5BEN%5D.pdf) |
-| **Türkçe** | [Özgeçmişi İndir (TR PDF)](https://github.com/mecik-arda/mecik-arda/blob/main/arda_mecik_cv-T%C3%BCrk%C3%A7e.pdf) |
+| **English** | [Download Resume (EN PDF)](https://github.com/mecik-arda/mecik-arda/blob/main/arda_mecik_cv_en.pdf) |
+| **Türkçe** | [Özgeçmişi İndir (TR PDF)](https://github.com/mecik-arda/mecik-arda/blob/main/arda_mecik_cv_tr.pdf) |
 
 ---
 

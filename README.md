@@ -66,7 +66,7 @@ A low-level utility designed to translate binary files back into human-readable 
 
 ---
 
-### RESUME / ÖZGEÇMİŞ
+### RESUME
 
 | Language | Document |
 | :--- | :--- |

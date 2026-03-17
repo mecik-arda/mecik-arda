@@ -75,4 +75,4 @@ A low-level utility designed to translate binary files back into human-readable 
 
 ---
 
-*Securing hardware, optimizing systems, and engineering the future—one commit at a time.*
+*From low-level registers to high-level security frameworks: Hardening systems, securing hardware, and auditing the future.*

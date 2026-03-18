@@ -70,8 +70,8 @@ A low-level utility designed to translate binary files back into human-readable 
 
 | Language | Document |
 | :--- | :--- |
-| **English** | [Download Resume (EN PDF)](https://github.com/mecik-arda/mecik-arda/blob/main/arda_mecik_cv_en.pdf) |
-| **Türkçe** | [Özgeçmişi İndir (TR PDF)](https://github.com/mecik-arda/mecik-arda/blob/main/arda_mecik_cv_tr.pdf) |
+| **English** | [Resume (EN PDF)](https://github.com/mecik-arda/mecik-arda/blob/main/arda_mecik_cv_en.pdf) |
+| **Türkçe** | [Özgeçmiş (TR PDF)](https://github.com/mecik-arda/mecik-arda/blob/main/arda_mecik_cv_tr.pdf) |
 
 ---
 

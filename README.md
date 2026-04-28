@@ -1,7 +1,7 @@
 # HI THERE, I'M ARDA MEÇİK
 
 ### Computer Engineering Student @ Trakya University | Embedded Systems & System Security
-I am a 20-year-old software engineer candidate specialized in embedded systems, system internals, and network security. Currently in my 2nd year at Trakya University, I focus on building secure bridges between hardware-level execution and high-level automation.
+I am a 20-year-old computer engineer candidate specialized in embedded systems, system internals, and network security. Currently in my 2nd year at Trakya University, I focus on building secure bridges between hardware-level execution and high-level automation.
 
 ---
 
